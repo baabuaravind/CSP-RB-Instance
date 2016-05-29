@@ -1,5 +1,7 @@
 # CSP-RB-Instance
-Artificial Intelligence - check the pdf file
+#Artificial Intelligence
+
+*** check the pdf file ***
 
 Write a program that generates a random consistent binary CSP and solves it using the techniques
 listed.
